@@ -3,7 +3,7 @@ Simple Password Strength Validator and Checker
 
 ## Usage Example
 
-Add NuGet package: PasswordStrengthChecker to your Project, createa console Application (>= .NET 5.0)
+Add NuGet package: PasswordStrengthChecker to your Project, create a console Application (>= .NET 5.0)
 
     using System;
     using digitarenet;
